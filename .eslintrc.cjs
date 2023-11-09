@@ -18,5 +18,6 @@ module.exports = {
     ],
     'no-unused-vars': 'off',
     'react/jsx-no-target-blank': 'off',
+    'react/no-unescaped-entities': 'off',
   },
 }
