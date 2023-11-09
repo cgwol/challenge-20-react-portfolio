@@ -1,5 +1,8 @@
 export default function About() {
     return (
-      <span>Hello</span>
+      <div>
+        <span className="text-light">Hello</span>
+      </div>
+      
     );
   }
