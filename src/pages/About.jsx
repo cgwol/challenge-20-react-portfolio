@@ -24,9 +24,9 @@ export default function About() {
             take CSE 100, Principles of Programming with C++, as an elective and knew immediatley that
             some kind of programming is what I wanted to do. I am currently enrolled in a full stack web development
             bootcamp through the University of Minnesota that will be completed in November 2023. The
-            bootcamp has aloowed me to greatly improve my skills in web development and has
+            bootcamp has allowed me to greatly improve my skills in web development and has
             given me the oppurtunity to be proficcient in both the front end and back end of
-            web development. I have learned skills such as React, SQL, and MobgoDB .
+            web development. I have learned skills such React, Handlebars, SQL, and MobgoDB .
           </span>
         </div>
       </div>

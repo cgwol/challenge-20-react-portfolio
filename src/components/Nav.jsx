@@ -5,22 +5,22 @@ export default function NavBar() {
 
     return (
         <ul className='nav mt-0'>
-            <li className={`nav-item ${currentPage === '/' ? 'active' : ''}`}>
+            <li className={`nav-item ${currentPage === '/' ? 'active-nav' : ''}`}>
                 <Link className='nav-link text-dark' to='/'>
                     About me
                 </Link>
             </li>
-            <li className={`nav-item ${currentPage === '/Portfolio' ? 'active' : ''}`}>
+            <li className={`nav-item ${currentPage === '/Portfolio' ? 'active-nav' : ''}`}>
                 <Link className='nav-link text-dark' to='/Portfolio'>
                     Portfolio
                 </Link>
             </li>
-            <li className={`nav-item ${currentPage === '/Resume' ? 'active' : ''}`}>
+            <li className={`nav-item ${currentPage === '/Resume' ? 'active-nav' : ''}`}>
                 <Link className='nav-link text-dark' to='/Resume'>
                     Resume
                 </Link>
             </li>
-            <li className={`nav-item ${currentPage === '/Contact' ? 'active' : ''}`}>
+            <li className={`nav-item ${currentPage === '/Contact' ? 'active-nav' : ''}`}>
                 <Link className='nav-link text-dark' to='/Contact'>
                     Contact
                 </Link>
